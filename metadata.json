@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Guardian AI",
+  "description": "Smart commitment planner and productivity advisor. Decomposes commitments into capacity-aware checklists, tracks pacing velocity, syncs with calendars, and plans rescues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
